@@ -1,0 +1,10 @@
+package karthiga;
+
+public class Split {
+	public static void main(String[] args) {
+		String a="hello world hii";
+		String []b=a.split(" ");
+		System.out.println(b[0]);
+	}
+
+}

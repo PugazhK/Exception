@@ -1,0 +1,12 @@
+package karthiga;
+
+public class Char2 {
+	public static void main(String[] args) {
+		String a="hello everyone";
+		char[] b=a.toCharArray();
+		System.out.println(b[10]+b[11]);
+		
+		
+	}
+
+}

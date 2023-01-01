@@ -1,0 +1,7 @@
+package Oops2;
+
+public class Fruit {
+	String name;
+	String color;
+	int quantity;
+}

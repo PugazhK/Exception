@@ -1,0 +1,10 @@
+package karthiga;
+
+public class Index {
+	public static void main(String[] args) {
+		String a="hello";
+		int b=a.indexOf(3);
+		System.out.println(b);
+	}
+
+}

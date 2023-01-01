@@ -1,0 +1,13 @@
+import java.util.Optional;
+
+public class OptionalClassTesting {
+	
+	public static Optional<String> printName(){
+		String a = null;
+		return Optional.of(a.toUpperCase());
+	}
+	
+	public static void main(String[] args) {
+		System.out.println(printName());
+	}
+}

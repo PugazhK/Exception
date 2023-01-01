@@ -1,0 +1,5 @@
+package SAMInterface;
+
+public class SingleAbstractMethod {
+
+}

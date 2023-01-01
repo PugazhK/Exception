@@ -1,0 +1,12 @@
+package For2;
+
+public class averageIndex {
+	public static void main (String [] args) {
+		int a []= {10,20,30,40,50};
+		int average = 0;
+		for  (int i=0; i<a.length; i++) {
+			average = average + a[i];
+		}
+		System.out.println(average/a.length);
+	}
+}

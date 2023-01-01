@@ -1,0 +1,11 @@
+package karthiga;
+
+public class Concat {
+	public static void main(String[] args) {
+		String a="onesoft";
+		String b="  technology";
+		String c=a.concat(b);
+		System.out.println(c);
+	}
+
+}

@@ -1,0 +1,9 @@
+package Day3;
+
+public class ToCharArray {
+	public static void main(String [] args) {
+		String a = "Pugazhendhi";
+		char [] b = a.toCharArray();
+		System.out.println(b[0]);
+	}
+}

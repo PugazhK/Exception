@@ -1,0 +1,10 @@
+package karthiga;
+
+public class Chara {
+	public static void main(String[] args) {
+		String a="onesoft";
+		char[]b=a.toCharArray();
+		System.out.println(b[0]);
+	}
+
+}

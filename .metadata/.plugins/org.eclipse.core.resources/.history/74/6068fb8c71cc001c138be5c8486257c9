@@ -1,0 +1,11 @@
+package karthiga;
+
+public class Start {
+	public static void main(String[] args) {
+		String a="hello world";
+		boolean b=a.startsWith("h");
+		System.out.println(b);
+		
+	}
+
+}

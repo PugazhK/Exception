@@ -1,0 +1,12 @@
+package Day3;
+
+public class Example {
+	public static void main(String [] args) {
+		String vall = "datatype";
+		char c = vall.charAt(2);
+		//String answer = c.toUpperCase();
+		//System.out.println(c.toUpperCase());
+		String d = vall.substring(6,8);
+		System.out.println(d);
+	}
+}

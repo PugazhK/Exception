@@ -1,0 +1,9 @@
+package Day3;
+
+public class Split {
+	public static void main(String [] args){
+		String a = "welcome,,Raki";
+		String[] b = a.split(",");
+		System.out.println(b[0]);
+	}
+}
